@@ -43,5 +43,9 @@ My own react template that would help in initial creation of react app.
     -css-loader         <------ Handles CSS import/require
     -style-loader       <------ Handles CSS in HTML
 
-    npm install --save-dev css-loader
-    npm install --save-dev style-loader
+    Command: npm install --save-dev css-loader style-loader
+
+# File Loader
+    -file-loader    <------ resolves import/require() on a file into a url and emits the file into the output directory
+
+    Command: npm install file-loader --save-dev
