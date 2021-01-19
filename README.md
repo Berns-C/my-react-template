@@ -22,6 +22,8 @@ My own react template that would help in initial creation of react app.
     -@material-ui/core      <------ Allows to use Material UI styles
     -@material-ui/style     <------ Allows to customize Material UI using styles
 
+    Command: npm i @material-ui/core @material-ui/style
+
 <--------------------- DEV DEPENDENCIES --------------------->
 # NPM Babel Dev Dependencies
 	-@babel/core 			<------ Babel core package
