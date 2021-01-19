@@ -7,6 +7,9 @@ My own react template that would help in initial creation of react app.
     Babel: https://babeljs.io/
     Material UI: https://material-ui.com/
 
+# Guides & References
+	Webpack Fonts Config - Reference: https://www.robinwieruch.de/webpack-font
+
 # Initialize package.json
 
 	Command: npm init -y
@@ -51,3 +54,8 @@ My own react template that would help in initial creation of react app.
     -file-loader    <------ resolves import/require() on a file into a url and emits the file into the output directory
 
     Command: npm install file-loader --save-dev
+
+# URL Loader for handling imported fonts
+	-url-loader
+
+	Command: npm install --save-dev url-loader
